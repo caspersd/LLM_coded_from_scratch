@@ -1,0 +1,27 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Spotlight metadata
+.Spotlight-V100
+.Trashes
+
+# macOS folder attributes
+Icon?
+._*
+
+# Thumbnails
+Thumbs.db
+Desktop.ini
+
+
+
+# VS Code
+.vscode/
+
+# Python, Jupyter, etc. 
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.env
