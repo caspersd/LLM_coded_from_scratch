@@ -2,5 +2,11 @@ name: HandCodedLLM
 
 dependencies:
   - python=3.11
-  -pip
+  - pip
+  - ipykernel
+  - matplotlib
+  - numpy
 
+  - pip:
+    - torch==2.2.2
+    - tiktoken
